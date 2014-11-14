@@ -15,8 +15,8 @@ As you have probably noticed by now, this repo is very much a work in progress. 
 5. Configuration Files (e.g. settings.py, requirements.txt, etc.)
 6. Models / Databases
 7. Views (General Best Practices)
-  a. Function-Based Views
-  b. Class-Based Views
+    a. Function-Based Views
+    b. Class-Based Views
 8. Forms
 9. Templates
 10. Django Admin
