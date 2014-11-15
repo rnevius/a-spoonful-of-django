@@ -8,7 +8,7 @@ As you have probably noticed by now, this repo is very much a work in progress. 
 
 ## Contents
 
-1. Coding Style
+1. [Coding Style](topics/coding_style.md)
 2. Local Environments
 3. Project Structure
 4. App Design
