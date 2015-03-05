@@ -33,7 +33,6 @@ In order to use this setup, you can either:
 ## Example
 
     # settings/development.py
-
     from .common import *  # usually a no no, but OK in the case of settings files
 
     DEBUG = True
