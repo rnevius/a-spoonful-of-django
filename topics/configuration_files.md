@@ -27,8 +27,8 @@ The purpose of each settings file can be summarized simply:
 
 In order to use this setup, you can either:
 
-a. Set the `DJANGO_SETTINGS_MODULE` environment variable in each of your environments (for example, `DJANGO_SETTINGS_MODULE=project.settings.development` in your development environment)
-b. Use the [--settings](https://docs.djangoproject.com/en/1.7/ref/django-admin/#django-admin-option---settings) command line option (for example, `python manage.py runserver --settings=project.settings.production` on your live server)
+1. Set the `DJANGO_SETTINGS_MODULE` environment variable in each of your environments (for example, `DJANGO_SETTINGS_MODULE=project.settings.development` in your development environment)
+2. Use the [--settings](https://docs.djangoproject.com/en/1.7/ref/django-admin/#django-admin-option---settings) command line option (for example, `python manage.py runserver --settings=project.settings.production` on your live server)
 
 ### Example
 
