@@ -19,7 +19,7 @@ Follow [PEP-8 coding conventions](#) whenever possible and practical. At a minim
 2. Separate top-level function and class definitions with two blank lines.
 3. Separate method definitions inside a class with a single blank line
 
-It can be helpful to use a plugin such as 
+It can be helpful to use a plugin such as...
 
 ### Regarding line limits
 
@@ -54,6 +54,7 @@ For example:
 	from django.db import models
 
 	# Third-party app imports
+    from braces.views import LoginRequiredMixin
 
 	# Local app imports...this can be improved. See section on Relative Imports.
 	from myapp.models import MyModel
