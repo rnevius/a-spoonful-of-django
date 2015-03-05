@@ -51,7 +51,7 @@ In order to use this setup, you can either:
         }
     }
 
-    INSTALLED_APPS += ('debug_toolbar', )
+    INSTALLED_APPS += ('debug_toolbar', )  # Add additional development-specific settings
 
     MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
